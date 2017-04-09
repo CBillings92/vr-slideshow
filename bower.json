@@ -1,0 +1,19 @@
+{
+  "name": "vr-slideshow",
+  "version": "0.0.1",
+  "homepage": "https://github.com/CBillings92/vr-slideshow",
+  "authors": [
+    "CBillings92 <Cameron.billings92@gmail.com>"
+  ],
+  "description": "",
+  "main": "views/index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
